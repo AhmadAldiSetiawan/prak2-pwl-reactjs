@@ -1,2 +1,2 @@
 # Prak2-PWL-ReactJs
-Nama : Muhammad Fariz Luthfi | NIM : 119140199
+Nama : Ahmad Aldi Setiawan | NIM : 119140090
